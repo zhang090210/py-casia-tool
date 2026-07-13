@@ -1,5 +1,9 @@
 # py-casia-tool
 
+> ⚠️ **WARNING: UNDER DEVELOPMENT**
+> 
+> This project is still under active development and is not ready for production use. APIs may change without notice, and functionality may be incomplete or broken.
+
 A Python tool for decoding CASIA (Chinese Academy of Sciences Institute of Automation) offline handwritten Chinese character datasets.
 
 ## Features
