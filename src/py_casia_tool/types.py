@@ -23,3 +23,4 @@ class DgrlLine:
     top: int
     left: int
     bitmap: np.ndarray
+    writer_code: Optional[str] = None

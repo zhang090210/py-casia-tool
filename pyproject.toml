@@ -4,8 +4,11 @@ version = "0.1.0"
 description = "A tool for decoding CASIA dataset"
 readme = "README.md"
 authors = [{ name = "Zzy", email = "626106510@qq.com" }]
-requires-python = ">=3.12"
-dependencies = ["numpy>=2.5.1"]
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=2.5.1",
+    "unstable>=0.5.1",
+]
 license = { text = "MIT" }
 
 [build-system]
